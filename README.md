@@ -11,7 +11,7 @@ This is a Go-based trading simulation program that models a simple stock exchang
 
 ## Project Structure
 ```
-/GO-_Stock_Market_Simulation
+/StockMarketSimulationGO
 |-- 1.go                  # Main program with interactive CLI and order processing
 |-- types/                # Package containing core types (Trader, Order, OrderBook)
 |   |-- types.go          # Defines all structuctures and methods
